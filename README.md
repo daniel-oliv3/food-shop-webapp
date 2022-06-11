@@ -1,5 +1,9 @@
 ### Food Shop
 
 ## Comandos para a criação do projeto.
-- Component de barra de navegação
+- Component Navbar - barra de navegação
 - ng g c navbar
+
+
+- Component Footer - Rodapé
+- ng g c footer
