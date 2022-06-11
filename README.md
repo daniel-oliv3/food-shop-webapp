@@ -15,3 +15,8 @@
 
 - Component Pages About - Sobre
 - ng g c about
+
+- Component Pages Contact - Contato
+- ng g c contact
+
+
