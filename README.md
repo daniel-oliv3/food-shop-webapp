@@ -7,5 +7,11 @@
 - Component Footer - Rodapé
 - ng g c footer
 
-- Component Menu - Menu
+- Component Pages Menu - Menu (Cardápio)
 - ng g c menu
+
+- Component Pages Home - Home (Inicio)
+- ng g c home
+
+- Component Pages About - Sobre
+- ng g c about
