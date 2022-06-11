@@ -19,7 +19,7 @@
 - Component Pages Contact - Contato
 - ng g c contact
 
-## Routes
+## Routes, adicionando as rotas no arquivo - app-routing.module.ts.
 - import { HomeComponent } from './pages/home/home.component';
 - import { MenuComponent } from './pages/menu/menu.component';
 - import { AboutComponent } from './pages/about/about.component';
