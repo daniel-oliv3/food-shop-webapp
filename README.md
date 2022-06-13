@@ -20,22 +20,22 @@
 - Colocar o link CDN no arquivo index.html
 
 ## Components.
-- Component Navbar - Barra de navegação
+- #### Component Navbar - Barra de navegação
 - ng g c navbar
 
-- Component Footer - Rodapé
+- #### Component Footer - Rodapé
 - ng g c footer
 
-- Component Pages Menu - Menu (Cardápio)
+- #### Component Pages Menu - Menu (Cardápio)
 - ng g c menu
 
-- Component Pages Home - Home (Inicio)
+- #### Component Pages Home - Home (Inicio)
 - ng g c home
 
-- Component Pages About - Sobre
+- #### Component Pages About - Sobre
 - ng g c about
 
-- Component Pages Contact - Contato
+- #### Component Pages Contact - Contato
 - ng g c contact
 
 ## Routes, adicionando as rotas no arquivo - app-routing.module.ts.
