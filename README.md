@@ -3,6 +3,9 @@
 ## Comandos para a criação do projeto.
 - ng new food-shop-webapp
 
+## Roda o projeto.
+- ng serve
+
 ## Bootstrap.
 - Site - https://getbootstrap.com/
 - Include via CDN
@@ -14,7 +17,7 @@
 - < script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js">
 - Colocar o link CDN no arquivo index.html
 
-## Components
+## Components.
 - Component Navbar - Barra de navegação
 - ng g c navbar
 
