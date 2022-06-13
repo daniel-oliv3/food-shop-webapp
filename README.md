@@ -3,7 +3,7 @@
 ## Comandos para a criação do projeto.
 - ng new food-shop-webapp
 
-## Roda o projeto.
+#### Roda o projeto.
 - ng serve
 
 ## Bootstrap.
