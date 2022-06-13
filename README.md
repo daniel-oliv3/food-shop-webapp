@@ -51,4 +51,7 @@
 - {path: 'contact', component:ContactComponent}
 ### ];
 
+## Bootstrap Icons Via CDN
+- < link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+- Colocar o link CDN no arquivo index.html
 
