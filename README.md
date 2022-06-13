@@ -5,11 +5,11 @@
 
 ## Bootstrap.
 - Site - https://getbootstrap.com/
-## CSS only
-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
+## CSS only.
+- < link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css">
 
 ## JavaScript Bundle with Popper.
-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+- < script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"></>
 
 - Component Navbar - Barra de navegação
 - ng g c navbar
