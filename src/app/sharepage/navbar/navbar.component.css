@@ -1,0 +1,10 @@
+/* Navbar styles*/
+ .navbar-light .navbar-nav .nav-link.active-link {
+  color: var(--primeira-cor);
+  font-weight: bold;
+}
+
+
+a .nav-link {
+  background-color: blue;
+}
