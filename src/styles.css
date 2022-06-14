@@ -11,13 +11,14 @@
 }
 
 body {
+  height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 
 /* icones*/
 .fa-utensils {
-  color: green;
+  color: var(--primeira-cor);
 }
 
 
