@@ -1,5 +1,5 @@
 .banner {
-  background-image: url('../../../assets/banner-01.jpeg');
+  background-image: url('../../../assets/banner-07.jpeg');
   height: 800px;
   background-position: center top;
   background-size: cover;
@@ -25,7 +25,10 @@
 
 .banner button {
   color: white;
-  top: 95%;
+  top: 88%;
   left: 20%;
   position: absolute;
+  width: 140px;
+  height: 60px;
+  font-size: 20px;
 }
