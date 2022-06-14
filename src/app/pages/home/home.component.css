@@ -7,9 +7,9 @@
 
 .banner h1 {
   color: white;
-  font-size: 50px;
-  font-weight: bold;
-  top: 45%;
+  font-size: 75px;
+  font-weight: bolder;
+  top: 35%;
   left: 20%;
   position: absolute;
 }
@@ -18,17 +18,17 @@
 .banner p {
   color: white;
   font-size: 30px;
-  top: 65%;
+  top: 55%;
   left: 20%;
   position: absolute;
 }
 
 .banner button {
   color: white;
-  top: 88%;
+  top: 78%;
   left: 20%;
   position: absolute;
-  width: 140px;
+  width: 180px;
   height: 60px;
   font-size: 20px;
 }
