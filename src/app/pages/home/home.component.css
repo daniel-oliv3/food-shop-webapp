@@ -1,0 +1,31 @@
+.banner {
+  background-image: url('../../../assets/banner-01.jpeg');
+  height: 800px;
+  background-position: center top;
+  background-size: cover;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  top: 45%;
+  left: 20%;
+  position: absolute;
+}
+
+
+.banner p {
+  color: white;
+  font-size: 30px;
+  top: 65%;
+  left: 20%;
+  position: absolute;
+}
+
+.banner button {
+  color: white;
+  top: 95%;
+  left: 20%;
+  position: absolute;
+}
