@@ -1,4 +1,4 @@
-export class OrderDetailsServices {
+export class OrderDetailsService {
 
   constructor(){
 

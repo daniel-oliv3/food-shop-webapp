@@ -77,3 +77,22 @@
   font-style: italic;
   color: white;
 }
+
+
+.foodbox {
+  padding: 10px 5px;
+}
+
+.foodbox img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.foodbox h1 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+
