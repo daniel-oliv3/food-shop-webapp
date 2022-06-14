@@ -32,3 +32,28 @@
   height: 60px;
   font-size: 20px;
 }
+
+
+/*.content {
+  top: 18%;
+  left: 20%;
+  position: absolute;
+}
+
+.content h1 {
+  color: white;
+}*/
+
+.content a {
+  text-decoration: none;
+  background-color: white;
+  color: blueviolet;
+  padding: 16px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.content .btn:hover {
+  background-color: white;
+  color: blue;
+}
