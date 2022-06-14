@@ -1,0 +1,17 @@
+.footer {
+  overflow: hidden;
+  background-color: rgb(66, 60, 60);
+  padding: 20px 10px;
+}
+
+h1 {
+  color: bisque;
+  font-size: 20px;
+}
+
+a {
+  color: beige;
+  text-decoration: none;
+  padding: 0px 5px;
+  font-size: 16px;
+}
